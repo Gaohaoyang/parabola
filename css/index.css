@@ -1,0 +1,12 @@
+.container{
+	width: 800px;
+	height: 600px;
+	border: 1px solid gray;
+}
+#ball{
+	width: 20px;
+	height:20px;
+	background-color: black;
+	border-radius: 20px;
+	position: relative;
+}
